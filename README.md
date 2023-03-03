@@ -14,8 +14,6 @@
 | Wonder Woman | Super Strength, Flight, Healing Factor | Diana Prince |
 | Iron Man     | Super Strength, Flight, Laser Beams    | Tony Stark   |
 
-* In addition to the table, learners should also create a form element that includes a text input, a select dropdown, and a submit button.
-  * The form should be set up to submit the data to a server, but the actual submission does not need to be implemented.
 * The learners should use the `table`, `caption`, `tr`, `th`, and `td` tags to create the table and form elements, and use appropriate attributes to style and organize the elements as needed.
 
 ### Solution View
